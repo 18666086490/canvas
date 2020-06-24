@@ -1,0 +1,1 @@
+<view class="content"><s-canvas vue-id="8dd740cc-1" canvasId="myCanvas" canvasData="{{canvasData}}" bgImg="{{bgImg}}" data-event-opts="{{[['^getImgSrc',[['getImgSrc']]]]}}" bind:getImgSrc="__e" bind:__l="__l"></s-canvas><block wx:if="{{url}}"><view><image src="{{url}}" mode="widthFix"></image></view></block></view>

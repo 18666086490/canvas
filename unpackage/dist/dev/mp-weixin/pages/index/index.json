@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "s-canvas": "/components/s-canvas/home"
+  }
+}

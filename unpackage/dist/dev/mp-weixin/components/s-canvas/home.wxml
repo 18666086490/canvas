@@ -1,0 +1,1 @@
+<view><view class="hideCanvasView"><canvas class="hideCanvas" style="{{('width:'+bgWidth+'px;height:'+bgHeight+'px;')}}" canvas-id="{{canvasId}}"></canvas></view><button data-event-opts="{{[['tap',[['getCanvas',['$event']]]]]}}" catchtap="__e">生成海报</button></view>
